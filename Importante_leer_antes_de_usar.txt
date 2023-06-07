@@ -1,0 +1,8 @@
+1 - primero descargar este archivo que es el motor de el chat pesa alrededor de 4Gb
+
+https://drive.google.com/file/d/1eSIXz0HgXrwYxlU9eUfDlERlAD_gixil/view?usp=drive_link
+
+
+2 - colocar en esta ruta:  "ChatGPT_all\gpt4all-main\gpt4all-main\gpt4all-training\chat"
+
+3 -ejecutar programa
